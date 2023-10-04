@@ -105,6 +105,9 @@ section {
 }
 
 @media (max-width: 575px) {
+  .mapFigure{
+    width: 100%;
+  }
   .breadcrumbs {
     margin-top: 70px;
   }
@@ -300,6 +303,8 @@ section {
 section {
   scroll-margin-top: 90px;
 }
+
+
 
 /*--------------------------------------------------------------
 # Desktop Navigation
